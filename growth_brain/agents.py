@@ -45,8 +45,13 @@ def critique_node(s):
     out = ask_json(
         "You are a harsh but fair content critic. Score 1-10 on hook strength, clarity, trend fit.",
         f"Scripts: {json.dumps(s['scripts'])}\n"
-        'Return {"reviews":[{"id":0,"score":0,"notes":""}]}. Be specific in notes.')
+        'Return {"reviews":[{"id":0,"score":0,"notes":""}]}. '
+        '"score" must be a single number 1-10 (the average). Be specific in notes.')
     reviews = out["reviews"]
+    for r in reviews:
+        if not isinstance(r.get("score"), (int, float)):
+            nums = [v for k, v in r.items() if k != "id" and isinstance(v, (int, float))]
+            r["score"] = round(sum(nums) / len(nums), 1) if nums else 0
     approved = all(r["score"] >= 8 for r in reviews)
     hist = s.get("history", []) + [{"round": s["round"], "scripts": copy.deepcopy(s["scripts"]),
                                     "reviews": reviews, "approved": approved}]

@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "bucket": "Interactive Learning",
+    "hook": "Think you can crack the perfect AI prompt in 30 seconds?",
+    "body": "Introduce the weekly Prompt Challenge, show a quick demo of a sample prompt, break down why it works, then ask viewers to submit their own prompts in the comments. Highlight the best solutions in a carousel recap later in the week.",
+    "cta": "Drop your prompt below and vote for your favorite in tomorrow's Story poll!"
+  },
+  {
+    "id": 1,
+    "bucket": "Authority Shorts",
+    "hook": "AI ethics myth #1: It\u2019s all about privacy\u2014false!",
+    "body": "State the myth, debunk it with a fast fact\u2011check and a real\u2011world example, overlay bold text for emphasis, and use a quick voice\u2011over to keep the pace snappy. Pin the series to Highlights for easy access.",
+    "cta": "Comment your biggest AI concern and follow for more myth\u2011busting reels!"
+  },
+  {
+    "id": 2,
+    "bucket": "Comparative Content",
+    "hook": "ChatGPT vs Claude vs Gemini\u2014who wins the writing showdown?",
+    "body": "Set a common task (e.g., drafting a product description), run each tool side\u2011by\u2011side, flash the outputs in a split\u2011screen Reel, and point out strengths/weaknesses in 5\u2011second bursts. End with a poll sticker asking viewers to pick the winner.",
+    "cta": "Vote in the poll, tag a friend to debate, and stay tuned for the next battle!"
+  }
+]

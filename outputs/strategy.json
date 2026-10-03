@@ -1,0 +1,81 @@
+{
+  "buckets": [
+    {
+      "name": "Interactive Learning",
+      "goal": "Boost repeat visits and community participation through hands\u2011on challenges and mini\u2011projects.",
+      "share_pct": 30,
+      "ideas": [
+        "AI Prompt Engineering Challenges",
+        "Behind\u2011the\u2011Scenes of Building a Mini AI Project"
+      ]
+    },
+    {
+      "name": "Authority Shorts",
+      "goal": "Position the creator as a trusted, responsible AI educator with quick\u2011hit myth\u2011busting content.",
+      "share_pct": 25,
+      "ideas": [
+        "Myth\u2011Busting AI Ethics in 60 Seconds"
+      ]
+    },
+    {
+      "name": "Comparative Content",
+      "goal": "Drive high watch\u2011time and debate by directly comparing popular AI tools.",
+      "share_pct": 20,
+      "ideas": [
+        "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)"
+      ]
+    },
+    {
+      "name": "Career Growth",
+      "goal": "Attract high\u2011intent followers seeking concrete AI career pathways and resources.",
+      "share_pct": 25,
+      "ideas": [
+        "AI\u2011Powered Career Path Maps"
+      ]
+    }
+  ],
+  "weekly_plan": [
+    {
+      "day": "Monday",
+      "bucket": "Interactive Learning",
+      "idea": "AI Prompt Engineering Challenges",
+      "format": "Weekly Reel series + Instagram Story poll for user\u2011submitted prompts, with a carousel recap of best solutions."
+    },
+    {
+      "day": "Tuesday",
+      "bucket": "Authority Shorts",
+      "idea": "Myth\u2011Busting AI Ethics in 60 Seconds",
+      "format": "Reel series using text overlay, quick voice\u2011over, and a CTA to comment personal concerns; pin the series to profile highlights."
+    },
+    {
+      "day": "Wednesday",
+      "bucket": "Comparative Content",
+      "idea": "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)",
+      "format": "Carousel with side\u2011by\u2011side screenshots + short Reel demo of each tool on the same task, ending with a poll sticker to vote for the winner."
+    },
+    {
+      "day": "Thursday",
+      "bucket": "Interactive Learning",
+      "idea": "Behind\u2011the\u2011Scenes of Building a Mini AI Project",
+      "format": "IGTV/Live split into 3\u2011part mini\u2011course, supplemented by carousel slides with code snippets and a downloadable PDF link in bio."
+    },
+    {
+      "day": "Friday",
+      "bucket": "Career Growth",
+      "idea": "AI\u2011Powered Career Path Maps",
+      "format": "Infographic carousel outlining skill milestones, paired with a Reel walkthrough and a downloadable Excel template linked via Linktree."
+    },
+    {
+      "day": "Saturday",
+      "bucket": "Authority Shorts",
+      "idea": "Myth\u2011Busting AI Ethics in 60 Seconds",
+      "format": "Re\u2011post the week\u2019s top myth\u2011busting Reel as a Story highlight with a Q&A sticker to deepen engagement."
+    },
+    {
+      "day": "Sunday",
+      "bucket": "Comparative Content",
+      "idea": "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)",
+      "format": "Live Q&A recap discussing audience poll results and answering tool\u2011specific questions."
+    }
+  ]
+}
