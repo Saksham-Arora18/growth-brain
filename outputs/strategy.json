@@ -2,35 +2,39 @@
   "buckets": [
     {
       "name": "Interactive Learning",
-      "goal": "Boost repeat visits and community participation through hands\u2011on challenges and mini\u2011projects.",
-      "share_pct": 30,
+      "goal": "Boost engagement through hands\u2011on demos and prompts",
+      "share_pct": 40,
       "ideas": [
-        "AI Prompt Engineering Challenges",
-        "Behind\u2011the\u2011Scenes of Building a Mini AI Project"
+        "Prompt\u2011to\u2011Result Mini\u2011Tutorials Using Google Gemini or ChatGPT",
+        "AI\u2011Generated 3\u2011D Dance Characters Demonstrating Tech Concepts",
+        "Trending Audio Paired with Quick Tech Hacks"
       ]
     },
     {
       "name": "Authority Shorts",
-      "goal": "Position the creator as a trusted, responsible AI educator with quick\u2011hit myth\u2011busting content.",
+      "goal": "Establish expertise with data\u2011driven and workflow content",
       "share_pct": 25,
       "ideas": [
-        "Myth\u2011Busting AI Ethics in 60 Seconds"
+        "AI\u2011Powered Reel Scripts & Automated Subtitles Workflow Showcase",
+        "Monthly \u201cTech Trend Radar\u201d Using Real\u2011Time Data Visualizations"
       ]
     },
     {
-      "name": "Comparative Content",
-      "goal": "Drive high watch\u2011time and debate by directly comparing popular AI tools.",
+      "name": "Comparative & Career Blend",
+      "goal": "Combine side\u2011by\u2011side comparisons with career growth tips",
       "share_pct": 20,
       "ideas": [
-        "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)"
+        "Comparative Content: Before/After AI code generation + career tip on prompt engineering",
+        "Career Growth: How mastering AI tools can boost tech job prospects"
       ]
     },
     {
-      "name": "Career Growth",
-      "goal": "Attract high\u2011intent followers seeking concrete AI career pathways and resources.",
-      "share_pct": 25,
+      "name": "Community Boost",
+      "goal": "Drive interaction via polls, Q&A, and carousel quizzes",
+      "share_pct": 15,
       "ideas": [
-        "AI\u2011Powered Career Path Maps"
+        "Interactive poll carousel on next tech trend",
+        "Live Q&A Reel with audience questions"
       ]
     }
   ],
@@ -38,44 +42,44 @@
     {
       "day": "Monday",
       "bucket": "Interactive Learning",
-      "idea": "AI Prompt Engineering Challenges",
-      "format": "Weekly Reel series + Instagram Story poll for user\u2011submitted prompts, with a carousel recap of best solutions."
+      "idea": "Prompt\u2011to\u2011Result Mini\u2011Tutorials Using Google Gemini or ChatGPT",
+      "format": "Fast\u2011cut Reel (15\u2011sec) showing prompt \u2192 AI output with split\u2011screen comparison"
     },
     {
       "day": "Tuesday",
       "bucket": "Authority Shorts",
-      "idea": "Myth\u2011Busting AI Ethics in 60 Seconds",
-      "format": "Reel series using text overlay, quick voice\u2011over, and a CTA to comment personal concerns; pin the series to profile highlights."
+      "idea": "AI\u2011Powered Reel Scripts & Automated Subtitles Workflow Showcase",
+      "format": "Reel + Carousel combo: timelapse Reel of script generation + carousel slides breaking down tools & costs"
     },
     {
       "day": "Wednesday",
-      "bucket": "Comparative Content",
-      "idea": "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)",
-      "format": "Carousel with side\u2011by\u2011side screenshots + short Reel demo of each tool on the same task, ending with a poll sticker to vote for the winner."
+      "bucket": "Interactive Learning",
+      "idea": "AI\u2011Generated 3\u2011D Dance Characters Demonstrating Tech Concepts",
+      "format": "30\u2011second Reel: avatar dances while overlaying bite\u2011size explanation of a tech topic, CTA to swipe for carousel"
     },
     {
       "day": "Thursday",
-      "bucket": "Interactive Learning",
-      "idea": "Behind\u2011the\u2011Scenes of Building a Mini AI Project",
-      "format": "IGTV/Live split into 3\u2011part mini\u2011course, supplemented by carousel slides with code snippets and a downloadable PDF link in bio."
+      "bucket": "Comparative & Career Blend",
+      "idea": "Comparative Content: Before/After AI code generation + career tip on prompt engineering",
+      "format": "Split\u2011screen Reel (20\u2011sec) with before/after code snippets, overlay text with a quick career tip, swipe\u2011up to detailed carousel"
     },
     {
       "day": "Friday",
-      "bucket": "Career Growth",
-      "idea": "AI\u2011Powered Career Path Maps",
-      "format": "Infographic carousel outlining skill milestones, paired with a Reel walkthrough and a downloadable Excel template linked via Linktree."
+      "bucket": "Authority Shorts",
+      "idea": "Monthly \u201cTech Trend Radar\u201d Using Real\u2011Time Data Visualizations",
+      "format": "Rapid montage Reel (15\u2011sec) of AI\u2011generated graphs highlighting top 3 emerging trends, voiceover summary, swipe\u2011up link to full carousel"
     },
     {
       "day": "Saturday",
-      "bucket": "Authority Shorts",
-      "idea": "Myth\u2011Busting AI Ethics in 60 Seconds",
-      "format": "Re\u2011post the week\u2019s top myth\u2011busting Reel as a Story highlight with a Q&A sticker to deepen engagement."
+      "bucket": "Community Boost",
+      "idea": "Interactive poll carousel on next tech trend",
+      "format": "Carousel with poll stickers on each slide asking audience to vote for the next trend to cover"
     },
     {
       "day": "Sunday",
-      "bucket": "Comparative Content",
-      "idea": "Tool\u2011Comparison Battles (e.g., ChatGPT vs. Claude vs. Gemini)",
-      "format": "Live Q&A recap discussing audience poll results and answering tool\u2011specific questions."
+      "bucket": "Community Boost",
+      "idea": "Live Q&A Reel with audience questions",
+      "format": "30\u2011second Reel prompting viewers to drop questions in comments, followed by a story Q&A session later in the day"
     }
   ]
 }

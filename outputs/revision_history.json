@@ -5,40 +5,40 @@
       {
         "id": 0,
         "bucket": "Interactive Learning",
-        "hook": "Think you can crack the perfect AI prompt in 30 seconds?",
-        "body": "Introduce the weekly Prompt Challenge, show a quick demo of a sample prompt, break down why it works, then ask viewers to submit their own prompts in the comments. Highlight the best solutions in a carousel recap later in the week.",
-        "cta": "Drop your prompt below and vote for your favorite in tomorrow's Story poll!"
+        "hook": "Watch a single prompt turn into a stunning AI output in seconds!",
+        "body": "Fast\u2011cut 15\u2011sec Reel: show the prompt text on screen \u2192 AI (Google Gemini or ChatGPT) generates a visual/code snippet \u2192 split\u2011screen before/after comparison \u2192 overlay a quick tip and a copy\u2011ready prompt template.",
+        "cta": "Try the prompt yourself, comment your results, and save this Reel!"
       },
       {
         "id": 1,
         "bucket": "Authority Shorts",
-        "hook": "AI ethics myth #1: It\u2019s all about privacy\u2014false!",
-        "body": "State the myth, debunk it with a fast fact\u2011check and a real\u2011world example, overlay bold text for emphasis, and use a quick voice\u2011over to keep the pace snappy. Pin the series to Highlights for easy access.",
-        "cta": "Comment your biggest AI concern and follow for more myth\u2011busting reels!"
+        "hook": "Ever wonder how I crank out Reel scripts in minutes? Here\u2019s the secret sauce!",
+        "body": "Timelapse Reel of AI script generation (FluxNote) \u2192 automated subtitle creation (Kapwing) \u2192 quick on\u2011screen notes of each step \u2192 carousel slides that break down tools, workflow, and cost breakdown.",
+        "cta": "Swipe left for the step\u2011by\u2011step carousel and start automating your reels today!"
       },
       {
         "id": 2,
-        "bucket": "Comparative Content",
-        "hook": "ChatGPT vs Claude vs Gemini\u2014who wins the writing showdown?",
-        "body": "Set a common task (e.g., drafting a product description), run each tool side\u2011by\u2011side, flash the outputs in a split\u2011screen Reel, and point out strengths/weaknesses in 5\u2011second bursts. End with a poll sticker asking viewers to pick the winner.",
-        "cta": "Vote in the poll, tag a friend to debate, and stay tuned for the next battle!"
+        "bucket": "Interactive Learning",
+        "hook": "A dancing AI avatar just taught me how neural networks learn\u2014watch!",
+        "body": "30\u2011sec Reel: hook intro \u2192 AI\u2011generated 3\u2011D avatar dances while bite\u2011size text explains a tech concept (e.g., how neural networks learn) \u2192 sync with upbeat music \u2192 finish with a swipe\u2011up cue.",
+        "cta": "Swipe for a deeper dive carousel and drop a comment if you\u2019d love more dancing tech!"
       }
     ],
     "reviews": [
       {
         "id": 0,
-        "score": 8,
-        "notes": "Hook is a clear challenge that grabs attention (8). Body explains the weekly Prompt Challenge step\u2011by\u2011step, easy to follow (8). Fits current trend of quick AI prompts and interactive reels (9). Average \u22488."
+        "score": 9,
+        "notes": "Hook is punchy and instantly conveys transformation, very clear about what viewers will see, and taps into the hot AI\u2011generated content trend."
       },
       {
         "id": 1,
         "score": 8,
-        "notes": "Hook uses myth\u2011busting format, strong curiosity pull (8). Body outlines myth, fact\u2011check, visual cues, and CTA concisely (8). Aligns with popular AI ethics & myth\u2011debunk trends (8). Average 8."
+        "notes": "Hook promises a quick secret, clear enough, and aligns with the creator\u2011automation niche; slightly less viral than pure AI output but still on\u2011trend."
       },
       {
         "id": 2,
         "score": 9,
-        "notes": "Hook pits top LLMs against each other, highly compelling (9). Body gives clear task, side\u2011by\u2011side demo, and poll, very easy to understand (9). Directly taps into hot comparative AI content trend (9). Average 9."
+        "notes": "Hook mixes novelty (dancing avatar) with education, crystal clear, and rides the wave of AI\u2011generated visual learning content."
       }
     ],
     "approved": true
