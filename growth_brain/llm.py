@@ -4,7 +4,7 @@ load_dotenv()
 
 def ask_json(system: str, user: str, retries: int = 2):
     from langchain_groq import ChatGroq
-    llm = ChatGroq(model=os.getenv("MODEL", "llama-3.3-70b-versatile"), temperature=0.4)
+    llm = ChatGroq(model=os.getenv("MODEL", "openai/gpt-oss-120b"), temperature=0.4)
     for _ in range(retries + 1):
         txt = llm.invoke([("system", system + "\nReturn ONLY valid JSON, no prose."), ("user", user)]).content
         m = re.search(r"\{.*\}|\[.*\]", txt, re.S)
