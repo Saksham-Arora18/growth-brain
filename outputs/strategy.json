@@ -2,39 +2,42 @@
   "buckets": [
     {
       "name": "Interactive Learning",
-      "goal": "Boost engagement through hands\u2011on demos and prompts",
-      "share_pct": 40,
+      "goal": "Boost engagement through polls, quizzes, and hands\u2011on AI challenges that encourage viewers to interact and share their results.",
+      "share_pct": 45,
       "ideas": [
-        "Prompt\u2011to\u2011Result Mini\u2011Tutorials Using Google Gemini or ChatGPT",
-        "AI\u2011Generated 3\u2011D Dance Characters Demonstrating Tech Concepts",
-        "Trending Audio Paired with Quick Tech Hacks"
+        "AI\u2011automated Reel production pipeline demo with poll on favorite AI tool (Trend\u202f1)",
+        "Trending audio + quick AI quiz on prompt engineering (Trend\u202f2)",
+        "Prompt library challenge: try this prompt & tag me (Trend\u202f4)"
       ]
     },
     {
       "name": "Authority Shorts",
-      "goal": "Establish expertise with data\u2011driven and workflow content",
-      "share_pct": 25,
-      "ideas": [
-        "AI\u2011Powered Reel Scripts & Automated Subtitles Workflow Showcase",
-        "Monthly \u201cTech Trend Radar\u201d Using Real\u2011Time Data Visualizations"
-      ]
-    },
-    {
-      "name": "Comparative & Career Blend",
-      "goal": "Combine side\u2011by\u2011side comparisons with career growth tips",
+      "goal": "Establish expertise with concise, high\u2011production reels that showcase deep knowledge and position the creator as a go\u2011to AI educator.",
       "share_pct": 20,
       "ideas": [
-        "Comparative Content: Before/After AI code generation + career tip on prompt engineering",
-        "Career Growth: How mastering AI tools can boost tech job prospects"
+        "3D AI avatar explains transformer basics (Trend\u202f3)",
+        "Micro\u2011carousel\u2011to\u2011Reel on prompt\u2011engineering steps (Trend\u202f5)",
+        "Quick comparative short on AI tools vs traditional coding (Trend\u202f5)"
       ]
     },
     {
-      "name": "Community Boost",
-      "goal": "Drive interaction via polls, Q&A, and carousel quizzes",
+      "name": "Comparative Content",
+      "goal": "Provide side\u2011by\u2011side analyses that help the audience make informed decisions on tools, languages, and career paths.",
+      "share_pct": 20,
+      "ideas": [
+        "AI video generators vs traditional editing showdown (Trend\u202f5)",
+        "Python vs JavaScript for AI scripting (Trend\u202f5)",
+        "Data Scientist vs AI Product Manager career comparison (Trend\u202f5)"
+      ]
+    },
+    {
+      "name": "Career Growth",
+      "goal": "Guide followers on skill development, job hunting, and professional branding within the AI & tech space.",
       "share_pct": 15,
       "ideas": [
-        "Interactive poll carousel on next tech trend",
-        "Live Q&A Reel with audience questions"
+        "Career roadmap Reel using prompt\u2011driven library (Trend\u202f4)",
+        "Interactive poll on top skill gaps for AI roles (Trend\u202f2)",
+        "Prompt\u2011driven resume optimization challenge (Trend\u202f4)"
       ]
     }
   ],
@@ -42,44 +45,44 @@
     {
       "day": "Monday",
       "bucket": "Interactive Learning",
-      "idea": "Prompt\u2011to\u2011Result Mini\u2011Tutorials Using Google Gemini or ChatGPT",
-      "format": "Fast\u2011cut Reel (15\u2011sec) showing prompt \u2192 AI output with split\u2011screen comparison"
+      "idea": "AI\u2011automated Reel production pipeline demo with poll on favorite AI tool",
+      "format": "Hook (3\u201115s) \u2192 AI\u2011generated script overlay \u2192 Automated cut & subtitles (via Higgsfield/Kapwing) \u2192 Quick demo or visual \u2192 CTA"
     },
     {
       "day": "Tuesday",
       "bucket": "Authority Shorts",
-      "idea": "AI\u2011Powered Reel Scripts & Automated Subtitles Workflow Showcase",
-      "format": "Reel + Carousel combo: timelapse Reel of script generation + carousel slides breaking down tools & costs"
+      "idea": "3D AI avatar explains transformer basics",
+      "format": "Dynamic 3D avatar appears with a question hook \u2192 Split\u2011screen: avatar explains + on\u2011screen animation of the concept \u2192 Quick transition to real\u2011world example \u2192 CTA to follow for deeper dives"
     },
     {
       "day": "Wednesday",
-      "bucket": "Interactive Learning",
-      "idea": "AI\u2011Generated 3\u2011D Dance Characters Demonstrating Tech Concepts",
-      "format": "30\u2011second Reel: avatar dances while overlaying bite\u2011size explanation of a tech topic, CTA to swipe for carousel"
+      "bucket": "Comparative Content",
+      "idea": "AI video generators vs traditional editing showdown",
+      "format": "Slide\u20111 hook image \u2192 3\u2011second Reel intro with carousel thumbnail \u2192 Sequential 2\u2011second clips each representing a carousel slide (pros/cons) \u2192 Final slide with summary + CTA"
     },
     {
       "day": "Thursday",
-      "bucket": "Comparative & Career Blend",
-      "idea": "Comparative Content: Before/After AI code generation + career tip on prompt engineering",
-      "format": "Split\u2011screen Reel (20\u2011sec) with before/after code snippets, overlay text with a quick career tip, swipe\u2011up to detailed carousel"
+      "bucket": "Interactive Learning",
+      "idea": "Trending audio + quick AI quiz on prompt engineering",
+      "format": "Trending sound intro (2s) \u2192 Bold text hook \u2192 10\u2011second visual walkthrough of a tech concept \u2192 Caption with prompt for comments \u2192 End with a repeatable audio cue"
     },
     {
       "day": "Friday",
-      "bucket": "Authority Shorts",
-      "idea": "Monthly \u201cTech Trend Radar\u201d Using Real\u2011Time Data Visualizations",
-      "format": "Rapid montage Reel (15\u2011sec) of AI\u2011generated graphs highlighting top 3 emerging trends, voiceover summary, swipe\u2011up link to full carousel"
+      "bucket": "Career Growth",
+      "idea": "Career roadmap Reel using prompt\u2011driven library",
+      "format": "Prompt displayed as text overlay \u2192 AI\u2011generated voice\u2011over reads the prompt \u2192 Fast\u2011cut montage of the resulting visual \u2192 Prompt call\u2011to\u2011action (e.g., \u201cTry this prompt & tag me\u201d)"
     },
     {
       "day": "Saturday",
-      "bucket": "Community Boost",
-      "idea": "Interactive poll carousel on next tech trend",
-      "format": "Carousel with poll stickers on each slide asking audience to vote for the next trend to cover"
+      "bucket": "Authority Shorts",
+      "idea": "Micro\u2011carousel\u2011to\u2011Reel on prompt\u2011engineering steps",
+      "format": "Slide\u20111 hook image \u2192 3\u2011second Reel intro with carousel thumbnail \u2192 Sequential 2\u2011second clips each representing a carousel slide (text + visuals) \u2192 Final slide with summary + CTA"
     },
     {
       "day": "Sunday",
-      "bucket": "Community Boost",
-      "idea": "Live Q&A Reel with audience questions",
-      "format": "30\u2011second Reel prompting viewers to drop questions in comments, followed by a story Q&A session later in the day"
+      "bucket": "Interactive Learning",
+      "idea": "Prompt library challenge: try this prompt & tag me",
+      "format": "Prompt displayed as text overlay \u2192 AI\u2011generated voice\u2011over reads the prompt \u2192 Fast\u2011cut montage of the resulting visual \u2192 Prompt call\u2011to\u2011action (e.g., \u201cTry this prompt & tag me\u201d)"
     }
   ]
 }

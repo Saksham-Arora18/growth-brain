@@ -2,22 +2,22 @@
   {
     "id": 0,
     "bucket": "Interactive Learning",
-    "hook": "Watch a single prompt turn into a stunning AI output in seconds!",
-    "body": "Fast\u2011cut 15\u2011sec Reel: show the prompt text on screen \u2192 AI (Google Gemini or ChatGPT) generates a visual/code snippet \u2192 split\u2011screen before/after comparison \u2192 overlay a quick tip and a copy\u2011ready prompt template.",
-    "cta": "Try the prompt yourself, comment your results, and save this Reel!"
+    "hook": "What if AI could spin up a viral Reel for you in seconds\u2014no camera needed?",
+    "body": "Start with an AI\u2011generated script overlay, then instantly switch to the automated edit and auto\u2011generated subtitles using Higgsfield/Kapwing. Flash a quick demo of the finished Reel, showing the seamless result without any filming.",
+    "cta": "Vote for your favorite AI tool in the poll and hit follow for more AI\u2011powered production hacks!"
   },
   {
     "id": 1,
     "bucket": "Authority Shorts",
-    "hook": "Ever wonder how I crank out Reel scripts in minutes? Here\u2019s the secret sauce!",
-    "body": "Timelapse Reel of AI script generation (FluxNote) \u2192 automated subtitle creation (Kapwing) \u2192 quick on\u2011screen notes of each step \u2192 carousel slides that break down tools, workflow, and cost breakdown.",
-    "cta": "Swipe left for the step\u2011by\u2011step carousel and start automating your reels today!"
+    "hook": "Transformers decoded in 15 seconds\u2014watch a 3D AI avatar break it down!",
+    "body": "A sleek 3D avatar appears, asks the question, then splits the screen: on the left the avatar delivers a rapid, punchy explanation, while the right side animates attention\u2011head dynamics. Cut to a real\u2011world example like language translation, then close with a one\u2011sentence takeaway.",
+    "cta": "Tap follow for deeper AI dives and more 3D explainer reels!"
   },
   {
     "id": 2,
-    "bucket": "Interactive Learning",
-    "hook": "A dancing AI avatar just taught me how neural networks learn\u2014watch!",
-    "body": "30\u2011sec Reel: hook intro \u2192 AI\u2011generated 3\u2011D avatar dances while bite\u2011size text explains a tech concept (e.g., how neural networks learn) \u2192 sync with upbeat music \u2192 finish with a swipe\u2011up cue.",
-    "cta": "Swipe for a deeper dive carousel and drop a comment if you\u2019d love more dancing tech!"
+    "bucket": "Comparative Content",
+    "hook": "AI video generators vs traditional editing\u2014who wins the speed\u2011vs\u2011quality battle?",
+    "body": "Kick off with a flashing split\u2011screen hook image, then a 3\u2011second Reel intro showcasing the carousel thumbnail. Rapid 2\u2011second clips flash each side\u2019s top pros and cons, using bold text and icons. End with a bold summary slide that crowns the winner and a quick call\u2011to\u2011action.",
+    "cta": "Comment which method you\u2019d choose and smash follow for more showdown reels!"
   }
 ]

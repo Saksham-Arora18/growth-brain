@@ -5,40 +5,128 @@
       {
         "id": 0,
         "bucket": "Interactive Learning",
-        "hook": "Watch a single prompt turn into a stunning AI output in seconds!",
-        "body": "Fast\u2011cut 15\u2011sec Reel: show the prompt text on screen \u2192 AI (Google Gemini or ChatGPT) generates a visual/code snippet \u2192 split\u2011screen before/after comparison \u2192 overlay a quick tip and a copy\u2011ready prompt template.",
-        "cta": "Try the prompt yourself, comment your results, and save this Reel!"
+        "hook": "Ever wonder how AI can create a Reel for you in seconds?",
+        "body": "Show an AI\u2011generated script overlay, then cut to the automated edit & subtitles using Higgsfield/Kapwing. Flash a quick demo of the final Reel playing, highlighting how zero filming was needed.",
+        "cta": "Vote in the poll for your favorite AI tool and follow for more AI\u2011powered production hacks!"
       },
       {
         "id": 1,
         "bucket": "Authority Shorts",
-        "hook": "Ever wonder how I crank out Reel scripts in minutes? Here\u2019s the secret sauce!",
-        "body": "Timelapse Reel of AI script generation (FluxNote) \u2192 automated subtitle creation (Kapwing) \u2192 quick on\u2011screen notes of each step \u2192 carousel slides that break down tools, workflow, and cost breakdown.",
-        "cta": "Swipe left for the step\u2011by\u2011step carousel and start automating your reels today!"
+        "hook": "What\u2019s a transformer? Let\u2019s break it down with a 3D AI avatar!",
+        "body": "Dynamic 3D avatar pops up with the question, split\u2011screen: avatar explains the core concept while on\u2011screen animation visualizes attention heads. Snap to a real\u2011world example (e.g., language translation) and wrap up.",
+        "cta": "Tap follow for deeper AI dives and more 3D explanations!"
       },
       {
         "id": 2,
-        "bucket": "Interactive Learning",
-        "hook": "A dancing AI avatar just taught me how neural networks learn\u2014watch!",
-        "body": "30\u2011sec Reel: hook intro \u2192 AI\u2011generated 3\u2011D avatar dances while bite\u2011size text explains a tech concept (e.g., how neural networks learn) \u2192 sync with upbeat music \u2192 finish with a swipe\u2011up cue.",
-        "cta": "Swipe for a deeper dive carousel and drop a comment if you\u2019d love more dancing tech!"
+        "bucket": "Comparative Content",
+        "hook": "AI video generators vs traditional editing \u2013 which wins?",
+        "body": "Slide\u20111 hook image flashes, then a 3\u2011second Reel intro showing the carousel thumbnail. Follow with rapid 2\u2011second clips for each side\u2019s pros and cons, ending with a summary slide that highlights the winner.",
+        "cta": "Comment which method you\u2019d choose and hit follow for more showdown reels!"
       }
     ],
     "reviews": [
       {
         "id": 0,
-        "score": 9,
-        "notes": "Hook is punchy and instantly conveys transformation, very clear about what viewers will see, and taps into the hot AI\u2011generated content trend."
+        "score": 8,
+        "notes": "Hook sparks curiosity and ties directly to a hot AI use\u2011case (8). Body is concise, visual\u2011first and explains the process clearly (8). Fits current Reel and AI\u2011generated content trends perfectly (9)."
       },
       {
         "id": 1,
-        "score": 8,
-        "notes": "Hook promises a quick secret, clear enough, and aligns with the creator\u2011automation niche; slightly less viral than pure AI output but still on\u2011trend."
+        "score": 7,
+        "notes": "Hook is educational but less punchy for short\u2011form scroll (6). Explanation is clear with 3D avatar and split\u2011screen, though could be tighter (7). 3D AI avatars are trendy, but transformer deep\u2011dives are a narrower niche (7)."
       },
       {
         "id": 2,
-        "score": 9,
-        "notes": "Hook mixes novelty (dancing avatar) with education, crystal clear, and rides the wave of AI\u2011generated visual learning content."
+        "score": 8,
+        "notes": "Hook poses a direct showdown, which drives clicks (8). Body outlines a rapid, visual comparison that\u2019s easy to follow (8). AI video generator vs traditional editing is a hot debate, aligning well with current creator trends (9)."
+      }
+    ],
+    "approved": false
+  },
+  {
+    "round": 1,
+    "scripts": [
+      {
+        "id": 0,
+        "bucket": "Interactive Learning",
+        "hook": "Ever wonder how AI can create a Reel for you in seconds?",
+        "body": "Show an AI\u2011generated script overlay, then cut to the automated edit & subtitles using Higgsfield/Kapwing. Flash a quick demo of the final Reel playing, highlighting how zero filming was needed.",
+        "cta": "Vote in the poll for your favorite AI tool and follow for more AI\u2011powered production hacks!"
+      },
+      {
+        "id": 1,
+        "bucket": "Authority Shorts",
+        "hook": "Transformers in 15 seconds: Let a 3D AI avatar break it down!",
+        "body": "A dynamic 3D avatar pops up with the question, then split\u2011screen: avatar delivers a rapid, punchy explanation while on\u2011screen animation visualizes attention heads. Snap to a real\u2011world example (e.g., language translation) and close with a one\u2011sentence takeaway.",
+        "cta": "Tap follow for deeper AI dives and more 3D explanations!"
+      },
+      {
+        "id": 2,
+        "bucket": "Comparative Content",
+        "hook": "AI video generators vs traditional editing \u2013 which wins?",
+        "body": "Slide\u20111 hook image flashes, then a 3\u2011second Reel intro showing the carousel thumbnail. Follow with rapid 2\u2011second clips for each side\u2019s pros and cons, ending with a summary slide that highlights the winner.",
+        "cta": "Comment which method you\u2019d choose and hit follow for more showdown reels!"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 0,
+        "score": 8.3,
+        "notes": "Hook is curiosity\u2011driven and fits the AI\u2011content niche (8). Body clearly outlines the demo steps, making the concept easy to follow (8). Topic aligns strongly with current reels and AI\u2011generated video trends (9)."
+      },
+      {
+        "id": 1,
+        "score": 9.0,
+        "notes": "Hook combines a hot AI term (Transformers) with a fast\u2011paced promise, very attention\u2011grabbing (9). Explanation flow is concise and visually described, ensuring clarity (9). Use of 3D AI avatars and bite\u2011size tech breakdowns is on\u2011trend (9)."
+      },
+      {
+        "id": 2,
+        "score": 7.8,
+        "notes": "Hook poses a clear comparison question, decent but less punchy than the others (7.5). Body provides a straightforward sequence of slides and quick pros/cons clips, fairly clear (8). Comparative AI vs traditional editing content is relevant, though slightly less novel than pure AI demos (8)."
+      }
+    ],
+    "approved": false
+  },
+  {
+    "round": 2,
+    "scripts": [
+      {
+        "id": 0,
+        "bucket": "Interactive Learning",
+        "hook": "What if AI could spin up a viral Reel for you in seconds\u2014no camera needed?",
+        "body": "Start with an AI\u2011generated script overlay, then instantly switch to the automated edit and auto\u2011generated subtitles using Higgsfield/Kapwing. Flash a quick demo of the finished Reel, showing the seamless result without any filming.",
+        "cta": "Vote for your favorite AI tool in the poll and hit follow for more AI\u2011powered production hacks!"
+      },
+      {
+        "id": 1,
+        "bucket": "Authority Shorts",
+        "hook": "Transformers decoded in 15 seconds\u2014watch a 3D AI avatar break it down!",
+        "body": "A sleek 3D avatar appears, asks the question, then splits the screen: on the left the avatar delivers a rapid, punchy explanation, while the right side animates attention\u2011head dynamics. Cut to a real\u2011world example like language translation, then close with a one\u2011sentence takeaway.",
+        "cta": "Tap follow for deeper AI dives and more 3D explainer reels!"
+      },
+      {
+        "id": 2,
+        "bucket": "Comparative Content",
+        "hook": "AI video generators vs traditional editing\u2014who wins the speed\u2011vs\u2011quality battle?",
+        "body": "Kick off with a flashing split\u2011screen hook image, then a 3\u2011second Reel intro showcasing the carousel thumbnail. Rapid 2\u2011second clips flash each side\u2019s top pros and cons, using bold text and icons. End with a bold summary slide that crowns the winner and a quick call\u2011to\u2011action.",
+        "cta": "Comment which method you\u2019d choose and smash follow for more showdown reels!"
+      }
+    ],
+    "reviews": [
+      {
+        "id": 0,
+        "score": 8.7,
+        "notes": "Hook is curiosity\u2011driven and directly promises a viral Reel without filming \u2013 strong for short\u2011form. Very clear about the AI tool angle. Fits current AI\u2011generated content trend perfectly."
+      },
+      {
+        "id": 1,
+        "score": 8.7,
+        "notes": "Hook leverages the popular 'Transformers' keyword and a 3D AI avatar, creating instant intrigue. Message is crystal\u2011clear and aligns with the surge in AI avatar explainer videos."
+      },
+      {
+        "id": 2,
+        "score": 8.3,
+        "notes": "Hook sets up a classic showdown, appealing to creators who care about speed vs quality. Clarity is high; trend relevance is solid but slightly less buzz\u2011worthy than the other two."
       }
     ],
     "approved": true

@@ -1,15 +1,15 @@
 # Weekly strategy
 
-- **Interactive Learning** (40%): Boost engagement through hands‑on demos and prompts
-- **Authority Shorts** (25%): Establish expertise with data‑driven and workflow content
-- **Comparative & Career Blend** (20%): Combine side‑by‑side comparisons with career growth tips
-- **Community Boost** (15%): Drive interaction via polls, Q&A, and carousel quizzes
+- **Interactive Learning** (45%): Boost engagement through polls, quizzes, and hands‑on AI challenges that encourage viewers to interact and share their results.
+- **Authority Shorts** (20%): Establish expertise with concise, high‑production reels that showcase deep knowledge and position the creator as a go‑to AI educator.
+- **Comparative Content** (20%): Provide side‑by‑side analyses that help the audience make informed decisions on tools, languages, and career paths.
+- **Career Growth** (15%): Guide followers on skill development, job hunting, and professional branding within the AI & tech space.
 
 ## Plan
-- Monday: [Interactive Learning] Prompt‑to‑Result Mini‑Tutorials Using Google Gemini or ChatGPT (Fast‑cut Reel (15‑sec) showing prompt → AI output with split‑screen comparison)
-- Tuesday: [Authority Shorts] AI‑Powered Reel Scripts & Automated Subtitles Workflow Showcase (Reel + Carousel combo: timelapse Reel of script generation + carousel slides breaking down tools & costs)
-- Wednesday: [Interactive Learning] AI‑Generated 3‑D Dance Characters Demonstrating Tech Concepts (30‑second Reel: avatar dances while overlaying bite‑size explanation of a tech topic, CTA to swipe for carousel)
-- Thursday: [Comparative & Career Blend] Comparative Content: Before/After AI code generation + career tip on prompt engineering (Split‑screen Reel (20‑sec) with before/after code snippets, overlay text with a quick career tip, swipe‑up to detailed carousel)
-- Friday: [Authority Shorts] Monthly “Tech Trend Radar” Using Real‑Time Data Visualizations (Rapid montage Reel (15‑sec) of AI‑generated graphs highlighting top 3 emerging trends, voiceover summary, swipe‑up link to full carousel)
-- Saturday: [Community Boost] Interactive poll carousel on next tech trend (Carousel with poll stickers on each slide asking audience to vote for the next trend to cover)
-- Sunday: [Community Boost] Live Q&A Reel with audience questions (30‑second Reel prompting viewers to drop questions in comments, followed by a story Q&A session later in the day)
+- Monday: [Interactive Learning] AI‑automated Reel production pipeline demo with poll on favorite AI tool (Hook (3‑15s) → AI‑generated script overlay → Automated cut & subtitles (via Higgsfield/Kapwing) → Quick demo or visual → CTA)
+- Tuesday: [Authority Shorts] 3D AI avatar explains transformer basics (Dynamic 3D avatar appears with a question hook → Split‑screen: avatar explains + on‑screen animation of the concept → Quick transition to real‑world example → CTA to follow for deeper dives)
+- Wednesday: [Comparative Content] AI video generators vs traditional editing showdown (Slide‑1 hook image → 3‑second Reel intro with carousel thumbnail → Sequential 2‑second clips each representing a carousel slide (pros/cons) → Final slide with summary + CTA)
+- Thursday: [Interactive Learning] Trending audio + quick AI quiz on prompt engineering (Trending sound intro (2s) → Bold text hook → 10‑second visual walkthrough of a tech concept → Caption with prompt for comments → End with a repeatable audio cue)
+- Friday: [Career Growth] Career roadmap Reel using prompt‑driven library (Prompt displayed as text overlay → AI‑generated voice‑over reads the prompt → Fast‑cut montage of the resulting visual → Prompt call‑to‑action (e.g., “Try this prompt & tag me”))
+- Saturday: [Authority Shorts] Micro‑carousel‑to‑Reel on prompt‑engineering steps (Slide‑1 hook image → 3‑second Reel intro with carousel thumbnail → Sequential 2‑second clips each representing a carousel slide (text + visuals) → Final slide with summary + CTA)
+- Sunday: [Interactive Learning] Prompt library challenge: try this prompt & tag me (Prompt displayed as text overlay → AI‑generated voice‑over reads the prompt → Fast‑cut montage of the resulting visual → Prompt call‑to‑action (e.g., “Try this prompt & tag me”))
